@@ -94,7 +94,6 @@
 		546EC7711DB0698000D573AB = {
 			isa = PBXGroup;
 			children = (
-				546EC7B01DB069A700D573AB /* CBLPopView */,
 				546EC77C1DB0698000D573AB /* CBLPopView */,
 				546EC7961DB0698100D573AB /* CBLPopViewTests */,
 				546EC7A11DB0698100D573AB /* CBLPopViewUITests */,
@@ -115,6 +114,7 @@
 		546EC77C1DB0698000D573AB /* CBLPopView */ = {
 			isa = PBXGroup;
 			children = (
+				546EC7B01DB069A700D573AB /* CBLPopView */,
 				546EC7801DB0698000D573AB /* AppDelegate.h */,
 				546EC7811DB0698000D573AB /* AppDelegate.m */,
 				546EC7831DB0698000D573AB /* ViewController.h */,
@@ -162,6 +162,7 @@
 				546EC7B21DB069C500D573AB /* CustomAlertView.m */,
 			);
 			name = CBLPopView;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		546EC7B41DB069D800D573AB /* SDAutoLayout */ = {
