@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CBLPopView"
-  s.version      = "1.1.1"
+  s.version      = "1.1.2"
   s.summary      = "A short description of CBLPopView."
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "CBLPopView/CBLPopView/**/*.{h,m}"
+  s.source_files  = "CBLPopView/**/*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
